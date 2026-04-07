@@ -16,7 +16,7 @@
 
 ---
 
-## Business Context
+## Business Contex
 
 Lee Chatman Stores operates across local and international markets, selling across three product categories: Clothing, Ornaments, and Other. The business needed a centralized view of its sales performance — one that a non-technical stakeholder could navigate without needing filtered exports or manual reporting.
 
